@@ -9,4 +9,4 @@
    https://github.com/vaishnavi-12317/-global-superstore-data-analysis-using-sql.git
 
 3. Superstore Sales Dashboard
-   https://github.com/vaishnavi-12317/Superstore-Sales-Dashboard.git
+   https://github.com/vaishnavi-12317/Superstore-Sales-Dashboard
