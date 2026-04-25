@@ -10,3 +10,6 @@
 
 3. Superstore Sales Dashboard
    https://github.com/vaishnavi-12317/Superstore-Sales-Dashboard
+
+4. Global Superstore Dashboard
+   https://github.com/vaishnavi-12317/Global-superstore-dashboard-using-power-BI
