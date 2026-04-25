@@ -3,7 +3,7 @@
 ## My Projects
 
 1. Customer Service Request Analysis 
-   https://github.com/vaishnavi-12317/Customer-Service-Request-Analysis.git
+   https://github.com/vaishnavi-12317/Customer-Service-Request-Analysis
 
 2. Superstore SQL Analysis
    https://github.com/vaishnavi-12317/-global-superstore-data-analysis-using-sql
